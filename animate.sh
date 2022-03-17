@@ -1,8 +1,8 @@
 #!/bin/bash
 
 repos=()
-outfile="matthewsREISgourceBuild"
-title="Matthews REIS Development Platform"
+outfile="output"
+title="Product Progress"
 
 for d in */ ; do
     d=${d%/}
